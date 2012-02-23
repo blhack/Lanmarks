@@ -4,3 +4,4 @@ This is just the javascript driving it.
 
 TODO:
 Stop using ajax, and use jquery with POST instead.  Why?  Because it's a lot cleaner, and parsing jsons is easier than parsing XML.
+Also: starting using the sprintf javascript module for string formatting.

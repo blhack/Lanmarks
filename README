@@ -1,0 +1,6 @@
+Lanmarks is a google maps client.  There are some calls to a python API for saving marks to a MySQL database.
+
+This is just the javascript driving it.
+
+TODO:
+Stop using ajax, and use jquery with POST instead.  Why?  Because it's a lot cleaner, and parsing jsons is easier than parsing XML.
